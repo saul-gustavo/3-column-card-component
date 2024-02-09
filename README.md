@@ -6,6 +6,7 @@
 This is a solution to the [# column card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
+## Español - Tabla de contenidos
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -26,7 +27,10 @@ This is a solution to the [# column card component challenge on Frontend Mentor]
 Users should be able to:
 
 - I built the Frontend Mentor project based on the design image, wrote color codes for each section to make it look similar to the design.
-- The user should see the result of the button styles and their corresponding hover.
+
+## Español
+
+- Desarrolle este desafio basandome en la imagen y poniendo a prueba mis conocimientos obtenidos tras practicar y practicar
 
 ### Screenshot
 
@@ -43,10 +47,13 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
+- HTML5 semantico
 - CSS custom properties
+- CSS3 propiedades basicas
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Diseño adaptable a dispositivos mobiles
 
 
 ### What I learned
@@ -54,6 +61,10 @@ Users should be able to:
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 To see how you can add code snippets, see below:
+
+## Español 
+
+En esta sección se mostrara la parte de codigo que use para hacer mas rapido el desafio, use Flexbox para ello.
 
 ```html
 <div class="cards"></div>
@@ -72,7 +83,15 @@ To see how you can add code snippets, see below:
 
 In terms of CSS3 properties, I still have more to learn, but with practice, I know I can improve and execute projects more effectively.
 
+## Español
+
+En algunas partes del codigo, sabia bien como usar cada porpiedad de CSS3 para que se vea como esta el resultado.
+
 ### Useful resources
+
+I only did it based on my knowledge
+
+## Español 
 
 - Me guie principalmente en la imagen del diseño, ya que me resulto facil el emplearlo al codigo
 
@@ -82,4 +101,6 @@ In terms of CSS3 properties, I still have more to learn, but with practice, I kn
 - Frontend Mentor - [@Saul-Gustavo](https://www.frontendmentor.io/profile/Saul-Gustavo)
 
 ## Acknowledgments
+I am very happy to have completed this project on the Frontend Mentor platform, I am motivated to continue learning and with practice I will be able to improve.
+## Español
 Estoy muy contento por hacer terminado este proyecto de la platafroma de Frontend Mentor, estoy motivado a seguir aprendiendo y con la practica podre mejorar.
