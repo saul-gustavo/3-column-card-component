@@ -56,18 +56,15 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<main><!-- main content --></main>
+<div class="cards"></div>
 ```
 
 ```css
-.main {
-    max-width: 46em;
+.cards {
+    max-width: 800px;
     display: flex;
     align-items: center;
-    flex-wrap: nowrap;
-    background-color: var(--white);
-    box-shadow: var(--light-lavender) 0px 7px 29px 0px;
-    border-radius: 20px;
+    justify-content: center;
 }
 ```
 
