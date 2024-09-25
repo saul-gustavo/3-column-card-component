@@ -32,6 +32,7 @@ body {
     justify-content: center;
     flex-direction: column;
     overflow: hidden;
+    position: relative;
 }
 
 .cards {
@@ -144,12 +145,15 @@ body {
 }
 
 .attribution {
-    padding-top: 2rem;
+    position: absolute;
+    bottom: 10px;
+    padding: 10px;
 }
 
 .attribution > a {
     text-decoration: none;
     transition: color 0.3s;
+    color: black;
 }
 
 .attribution > a:hover {
@@ -180,9 +184,7 @@ body {
     }
 
     .attribution {
-        margin-bottom: 1rem;
         text-align: center;
-        padding: 1rem;
     }
 }
 
@@ -211,11 +213,6 @@ body {
         border-radius: 30px;
     }
 
-    .attribution {
-        margin-bottom: 1rem;
-        text-align: center;
-        padding: 1rem;
-    }
 }
 
 
